@@ -13,11 +13,12 @@ Technology - Business Intelligence
 
 Domain - Healthcare
 
+Tableau Public Dashboard link - https://public.tableau.com/app/profile/vikas6317/viz/HeartdiseasediagnosticAnalysis-IneuronInternship/HeartDiseaseDiagnosticAnalysis?publish=yes
 
 Programming language used - Python
 
 Tools 🛠
-Jupyter Notebook, MS Excel, MS Power BI, Data studio.
+Jupyter Notebook, MS Excel, Tableau Public, Data studio.
 
 Conclusion 💡
 -45.87% People suffering from heart disease.
